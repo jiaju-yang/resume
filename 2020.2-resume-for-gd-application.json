@@ -1,0 +1,169 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Jiaju Yang",
+    "email": "psychesworld@gmail.com",
+    "phone": "(+86) 156-5802-3396",
+    "location": {
+      "address": "Chengdu, Sichuan, China"
+    },
+    "website": "github.com/psychesworld"
+  },
+  "education": [
+    {
+      "institution": "Sichuan University",
+      "location": "Sichuan, China",
+      "studyType": "Master of",
+      "startDate": "Sep 2011",
+      "area": "Commerce",
+      "endDate": "June 2013",
+      "gpa": "3.42/4"
+    },
+    {
+      "institution": "Sichuan University of Science & Engineering",
+      "location": "Sichuan, China",
+      "studyType": "Bachelor of",
+      "area": "Commerce",
+      "startDate": "Sep 2006",
+      "endDate": "June 2010"
+    }
+  ],
+  "work": [
+    {
+      "location": "Hangzhou, Zhejiang, China",
+      "position": "Software engineer",
+      "website": "deltaentropy.com",
+      "startDate": "May 2017",
+      "endDate": "February 2019",
+      "highlights": [
+        "Design and develop RESTful api style applications using django and spring boot.",
+        "Create software tools for developing data prediction models using python.",
+        "Design and develop web crawling systems using scrapy.",
+        "Provide ongoing maintenance, support and enhancements in existing systems and platforms.",
+        "Import Domain Driven Design to collaborate cross-functionally with data scientists, business users, project managers and other engineers and create elegant systems."
+      ],
+      "company": "Delta Entropy LTD."
+    },
+    {
+      "highlights": [
+        "Design, develop and maintain android applications.",
+        "Develop and maintain RESTful api style applications using node."
+      ],
+      "company": "Romens LTD.",
+      "position": "Software engineer",
+      "location": "Chengdu, Sichuan, China",
+      "startDate": "October 2015",
+      "endDate": "April 2017"
+    },
+    {
+      "highlights": [
+        "Develop and maintain android applications."
+      ],
+      "company": "Dingyetong LTD.",
+      "position": "Software engineer (Internship)",
+      "location": "Chengdu, Sichuan, China",
+      "startDate": "March 2015",
+      "endDate": "October 2015"
+    },
+    {
+      "highlights": [
+        "Analyze data regarding customer preferences and buying habits to better identify market potential and factors influencing product demand.",
+        "Assist in the organizing of promotional events."
+      ],
+      "company": "Huaxia Life Insurance Co., LTD.",
+      "position": "Market Analyst & Marketing Assistant",
+      "location": "Chengdu, Sichuan, China",
+      "startDate": "June 2013",
+      "endDate": "March 2014"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "python", "django", "sql"
+      ],
+      "name": "Delta Motion",
+      "description": "A risk management programme to filter high-risk trucks based on a variety of data. Insurance companies and other organizations can provide these trucks with dynamic premiums according to their risk ratios."
+    },
+    {
+      "keywords": [
+        "java", "python", "spring boot", "scrapy"
+      ],
+      "name": "Diting",
+      "description": "A project to find counterfeit consumer goods, assisting the brand owners to maintain their brand image."
+    },
+    {
+      "keywords": [
+        "javascript", "node"
+      ],
+      "name": "Romens Mobile Training System",
+      "description": "A mobile enterprise training system, providing learning courses and exams, to improve employee's skills."
+    },
+    {
+      "keywords": [
+        "android"
+      ],
+      "name": "Romens Working Circle",
+      "description": "A mobile enterprise communication and collaboration platform to help simplify employee's work."
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Flask",
+        "Django",
+        "Scrapy",
+        "Java",
+        "Spring Boot",
+        "Android",
+        "SQL"
+      ],
+      "name": "programming"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "Git",
+        "Docker",
+        "VS Code",
+        "Intellij",
+        "Pycharm",
+        "Linux",
+        "Macos"
+      ],
+      "name": "developing tools"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "Domain Driven Design",
+        "Clean Code",
+        "Deep Understanding of Algorithms"
+      ],
+      "name": "others"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "projects",
+    "education",
+    "skills",
+    "awards"
+  ]
+}
