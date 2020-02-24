@@ -24,18 +24,18 @@
         "Import Domain Driven Design to collaborate cross-functionally with data scientists, project managers and other engineers, and design architectures for web and crawling systems.",
         "Import the trunk based source code branching model to avoid merge hell and increase the efficiency of development.",
         "Introduce unit tests and code quality reviews to reduce tech debt and improve code quality.",
-        "Design and develop RESTful api style services using django and spring boot.",
-        "Design and develop a distributed web crawler system which can send over 1 million requests per day using scrapy.",
-        "Create software tools for developing risk prediction models using python.",
+        "Design and develop RESTful api style services using Django and Spring Boot.",
+        "Design and develop a distributed web crawler system which can send over 1 million requests per day using Scrapy.",
+        "Create software tools for developing risk prediction models using Python.",
         "Mentor a junior Python developer and train him to work independently."
       ],
       "company": "Delta Entropy LTD."
     },
     {
       "highlights": [
-        "Design and develop a mobile purchasing application for pharmacies' purchasing managers running on android.",
-        "Provide ongoing maintenance and enhancements in a mobile enterprise communication and collaboration application using android.",
-        "Develop and maintain a few API-driven services using node."
+        "Design and develop a mobile purchasing application for pharmacies' purchasing managers running on Android.",
+        "Provide ongoing maintenance and enhancements in a mobile enterprise communication and collaboration application using Android.",
+        "Develop and maintain a few API-driven services using Node."
       ],
       "company": "Romens LTD.",
       "position": "Software engineer",
@@ -68,17 +68,17 @@
   "projects": [
     {
       "keywords": [
-        "python", "pandas", "java", "spring boot", "scrapy", "postgresql", "redis", "mongodb", "docker", "travis ci"
+        "Python", "Pandas", "Java", "Spring Boot", "Scrapy", "PostgreSQL", "Redis", "MongoDB", "Docker", "Travis CI"
       ],
       "name": "Diting",
       "description": "A project to find counterfeit consumer goods, assisting brand owners to spot fake sellers and maintain the owners' brand image."
     },
     {
       "keywords": [
-        "python", "django", "pandas", "postgresql", "redis", "docker", "jenkins"
+        "Python", "Django", "Pandas", "PostgreSQL", "Redis", "Docker", "Jenkins"
       ],
       "name": "Delta Motion",
-      "description": "A risk management programme to filter high-risk trucks based on a variety of data. According to the calculated risk ratios, insurance companies and other organizations can provide these trucks with dynamic premiums."
+      "description": "A risk management programme to filter high-risk trucks based on a variety of data. According to the calculated risk ratios, insurance companies and other clients can provide these trucks with dynamic premiums."
     }
   ],
   "education": [
